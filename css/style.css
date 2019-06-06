@@ -1,0 +1,31 @@
+html{
+	scroll-behavior: smooth;
+}
+body{
+	height: 100%;
+}
+#header{
+	color: black;
+}
+.tcard{
+	font-size: 40px;
+}
+html{
+	background-color: White;
+	scroll-behavior: smooth;
+}
+.nav-wrapper{
+	background-color: white;
+}
+#title{
+	color: white;
+}
+#button {
+	background-color: #595860;
+}
+#photo{
+	height: 500px
+}
+#link{
+	color: #595860;
+}
